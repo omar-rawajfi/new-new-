@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/omar-rawajfi/new-new-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Growth mindset 
+A growth mindset can be defind as: A mindset that enables a person to embrace challenges, to persists through obstcles, to exart effort (no pain,no gain), to learn forme criticsm, and to be inspired by the success of others.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
