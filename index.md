@@ -11,8 +11,6 @@ personal information
 ```personal information
 Name: Omar Al-Rawajfi
 Email:omarrawajfi@gmail.com
-
-
 ```
 *For more information on go to[a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
